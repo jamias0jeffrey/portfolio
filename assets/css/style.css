@@ -2464,6 +2464,7 @@
 		overflow-y: auto;
 		position: fixed;
 		text-align: center;
+		vertical-align: middle;
 		top: 0;
 		width: 23em;
 		right: 0;

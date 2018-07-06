@@ -40,6 +40,10 @@
 		-webkit-text-size-adjust: none;
 	}
 
+#intro {
+	font-size: 15px;
+}
+
 .imagelist {
 	width: 100px;
 	height: 100px;
